@@ -13,3 +13,4 @@ public class vowels
   	else
   		System.out.println("Consonant");
 	}
+}
